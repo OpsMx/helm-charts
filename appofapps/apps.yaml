@@ -18,7 +18,7 @@ spec:
         value: 1.27.0
       valueFiles:
       - values.yaml
-    repoURL: https://github.com/gopaljayanthi/helm-charts.git
+    repoURL: https://github.com/opsmx/helm-charts.git
     targetRevision: master
   syncPolicy:
     syncOptions:
@@ -44,7 +44,7 @@ spec:
         value: 1.26.0
       valueFiles:
       - values.yaml
-    repoURL: https://github.com/gopaljayanthi/helm-charts.git
+    repoURL: https://github.com/opsmx/helm-charts.git
     targetRevision: master
   syncPolicy:
     syncOptions:
@@ -70,7 +70,7 @@ spec:
         value: 1.25.0
       valueFiles:
       - values.yaml
-    repoURL: https://github.com/gopaljayanthi/helm-charts.git
+    repoURL: https://github.com/opsmx/helm-charts.git
     targetRevision: master
   syncPolicy:
     syncOptions:
@@ -96,7 +96,7 @@ spec:
         value: 1.24.0
       valueFiles:
       - values.yaml
-    repoURL: https://github.com/gopaljayanthi/helm-charts.git
+    repoURL: https://github.com/opsmx/helm-charts.git
     targetRevision: master
   syncPolicy:
     syncOptions:

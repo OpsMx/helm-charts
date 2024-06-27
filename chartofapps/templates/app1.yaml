@@ -18,7 +18,7 @@ spec:
         value: {{ .Values.app1.image.tag }}
       valueFiles:
       - values.yaml
-    repoURL: https://github.com/gopaljayanthi/helm-charts.git
+    repoURL: https://github.com/opsmx/helm-charts.git
     targetRevision: master
   syncPolicy:
     syncOptions:
